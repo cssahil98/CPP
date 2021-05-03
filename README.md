@@ -1,3 +1,3 @@
 # C++
 
-I am using dev c++ application to run all the c++ files
+I have used GDB online c++ compiler to run all the c++ files
