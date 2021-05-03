@@ -93,7 +93,7 @@ int main()
 			case 8: exit(0);
 		}
 	}
-	_getch();
+	getch();
 }
 
 void bank::create_acc()
